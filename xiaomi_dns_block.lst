@@ -83,6 +83,7 @@ data.mistat.us.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
 de.pandora.xiaomi.com
+de.api.io.mi.com //Testing if it breaks something - only using Yeelight App/ Xiaomi Home
 dev.api.zhuti.n.xiaomi.com
 dev.market.n.xiaomi.com
 dev.staging.api.developer.n.xiaomi.com
